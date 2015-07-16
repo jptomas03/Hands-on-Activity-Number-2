@@ -1,0 +1,10 @@
+c:\users\jayson\documents\visual studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\bin\Debug\Hands-on Activity Number 2.exe.config
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\bin\Debug\Hands-on Activity Number 2.exe
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\bin\Debug\Hands-on Activity Number 2.pdb
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\bin\Debug\Hands-on Activity Number 2.xml
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\obj\Debug\Hands_on_Activity_Number_2.Billing.resources
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\obj\Debug\Hands_on_Activity_Number_2.Resources.resources
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\obj\Debug\Hands-on Activity Number 2.vbproj.GenerateResource.Cache
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\obj\Debug\Hands-on Activity Number 2.exe
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\obj\Debug\Hands-on Activity Number 2.xml
+C:\Users\Jayson\Documents\Visual Studio 2013\Projects\Hands-on Activity Number 2\Hands-on Activity Number 2\obj\Debug\Hands-on Activity Number 2.pdb
